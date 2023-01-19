@@ -1,1 +1,19 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="2Mx,K:A[v@o~kj]O!V6X" x="0" y="0"></block><block type="device_forever" id="@!r9JtXu,d~Bb1~A`6N(" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="bffH6R4c}{Lg1tm4wys[" x="28" y="18"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="b^qw4h^^JWV{^}7+7cz%"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="c?XS=V@,n@-#x=7E$^Nk" x="492" y="10"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="~v:3zy#fDULN;oc@*03D"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_gesture_event" id="vzGw{;vboS;H[z0)Oy.=" x="236" y="94"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id="?p,6c2b`?)*qa9BQme*."><value name="text"><shadow type="text" id=",=%u-+8):-OdmU@U^$)3"><field name="TEXT">HELLO!!!</field></shadow></value></block></statement></block><block type="device_pin_event" id=")?v@o]E$4;ph80vyGszV" x="274" y="243"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="iA:Y.z%mv_),~o+ASM.Q"><field name="LEDS">`
+        # # . . . 
+        . # . . . 
+        . # # # . 
+        . # # # . 
+        . # . # .
+        `</field></block></statement></block></xml>
